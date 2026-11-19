@@ -1,21 +1,16 @@
-# TCLS Yeshwanthpur Dashboard
-A lightweight Streamlit dashboard built from the 8 submitted DOCX reports.
+TCLS Yeshwanthpur Dashboard – final revision
 
-## Run locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+Files:
+- app.py: Streamlit dashboard
+- requirements.txt: Python packages
+- units.csv, schools.csv, trainer_detail.csv, skills.csv: source-derived data tables
 
-## Publish a shareable link
-1. Create a GitHub repository and upload all files in this folder.
-2. Open https://share.streamlit.io/ and connect your GitHub account.
-3. Select the repository, branch, and `app.py`.
-4. Deploy. Streamlit Community Cloud will provide a shareable URL.
+Deploy:
+1. Upload all files in this folder to the root of your GitHub repository, replacing existing files.
+2. Streamlit Community Cloud will detect the commit and redeploy automatically.
+3. The app URL remains the same.
 
-People with the URL can interact with filters and charts. To edit the dashboard's code or underlying CSV data, grant them access to the GitHub repository. A public app URL alone does not grant edit permissions.
-
-## Important reporting notes
-- Commerce is set to 330 classes as explicitly requested, although the source document says "330 Hrs".
-- Total students = sum of all unit-level reported headcounts; potential overlap is not deduplicated.
-- Skill counts retain source-document units and are not assumed to be directly comparable.
+Official data handling:
+The app labels student totals as reported because overlap cannot be ruled out.
+Commerce has 330 hours and 11 classes (from the UG class split), not 330 classes.
+The class total across units is 45.

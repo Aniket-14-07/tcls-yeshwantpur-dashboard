@@ -1,6 +1,6 @@
-Unit,Skill,Count
-Commerce,Year 1: Soft skill + Digital skill,6
-Commerce,Year 2: Soft skill + Digital skill,5
+Unit,Skill,Source_Count
+Commerce,Year 1: Soft skill + Digital skill,6 Classes
+Commerce,Year 2: Soft skill + Digital skill,5 Classes
 English,Professional Skills – Career,1
 English,Personal Development – Life Skills,1
 Mathematics,Digital Literacy and Data Handling Skills,1
@@ -19,9 +19,9 @@ B.Sc. Psychology,Financial Skills (CPCG165A-3),136
 B.Sc. Psychology,Entrepreneurial Skills (CPCG166A-3),129
 DPS,Professional Excellence,15
 DPS,Strategic Thinking & Organizational Leadership,15
-CS Odd_PG,Industry & Scientific Communication Skills,2
-CS Odd_PG,Academic & Professional Leadership Course,2
+CS Odd_PG,Industry & Scientific Communication Skills (CPCG366A-1),2
+CS Odd_PG,Academic & Professional Leadership Course (CPCG368A),2
 CS Odd_PG,Scientific Writing and Communications Skills,2
 CS Odd_PG,Digital Skills,2
-CS Odd_PG,Professional & Entrepreneurship – Career preparation,2
-CS Odd_PG,Professional & Entrepreneurship – Entrepreneurship Skills,2
+CS Odd_PG,Professional & Entrepreneurship Skills - L1: Career preparation,2
+CS Odd_PG,Professional & Entrepreneurship Skills - L1: Entrepreneurship Skills,2
