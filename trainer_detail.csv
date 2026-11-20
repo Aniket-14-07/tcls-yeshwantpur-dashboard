@@ -1,14 +1,14 @@
-Unit,Trainer_Type,Trainers
-Commerce,External Trainers,11
+Unit,Trainer_Type,Count_reported
+Professional Studies,External Trainers,7
+Psychological Sciences,External Trainers,12
+Psychological Sciences,Digital Computer Science Department Trainers,4
 English,External Trainers,1
-Mathematics,External Trainers,2
+Social Sciences - Economics,External Trainers,10
+Social Sciences - Economics,CAPS / PhD Scholars,0
+Social Sciences - Economics,Digital Computer Science Department Trainers,0
+Social Sciences - Economics,Internal Department Trainers,0
+Computer Science,External Trainers,11
+Computer Science,CAPS / PhD Scholars,11
 Media,External Trainers,10
-B.Sc. Psychology,External Trainers,6
-B.Sc. Psychology,Digital CS-Department Trainers,2
-DPS,External Trainers,7
-Economics,External Trainers,10
-Economics,CAPS / PhD Scholars,0
-Economics,Digital CS-Department Trainers,0
-Economics,Internal Department Trainers,0
-CS Odd_PG,External Trainers,11
-CS Odd_PG,CAPS / PhD Scholars,11
+Commerce,External Trainers,11
+Mathematics,External Trainers,2

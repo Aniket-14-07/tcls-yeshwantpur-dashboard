@@ -1,27 +1,31 @@
-Unit,Skill,Source_Count
-Commerce,Year 1: Soft skill + Digital skill,6 Classes
-Commerce,Year 2: Soft skill + Digital skill,5 Classes
-English,Professional Skills – Career,1
-English,Personal Development – Life Skills,1
-Mathematics,Digital Literacy and Data Handling Skills,1
-Mathematics,Scientific Writing and Communications Skills,1
-Mathematics,Entrepreneurship Skills (L1),1
-Mathematics,Career Preparation and Professional Development,1
-Media,Career Launchpad for Media Professionals,116
-Media,Academic Communication and Writing Essentials,116
-Media,Adaptive Leadership for Digital Media,111
-Media,Professional Speaking and Workplace Communication,111
-Media,Executive Presence and Strategic Identity,19
-Media,Crisis Communication and Thought Leadership,19
-B.Sc. Psychology,Digital Literacy (CPCG165A-1),124
-B.Sc. Psychology,Professional Skills I (CPCG166A-1),139
-B.Sc. Psychology,Financial Skills (CPCG165A-3),136
-B.Sc. Psychology,Entrepreneurial Skills (CPCG166A-3),129
-DPS,Professional Excellence,15
-DPS,Strategic Thinking & Organizational Leadership,15
-CS Odd_PG,Industry & Scientific Communication Skills (CPCG366A-1),2
-CS Odd_PG,Academic & Professional Leadership Course (CPCG368A),2
-CS Odd_PG,Scientific Writing and Communications Skills,2
-CS Odd_PG,Digital Skills,2
-CS Odd_PG,Professional & Entrepreneurship Skills - L1: Career preparation,2
-CS Odd_PG,Professional & Entrepreneurship Skills - L1: Entrepreneurship Skills,2
+Unit,Skill,Count_reported,Source_note
+Professional Studies,Professional Excellence,3,
+Professional Studies,Strategic Thinking & Organizational Leadership,4,
+Psychological Sciences,Digital Literacy (CPCG165A-1),4,
+Psychological Sciences,Professional Skills I (CPCG166A-1),4,
+Psychological Sciences,Financial Skills (CPCG165A-3),4,
+Psychological Sciences,Entrepreneurial Skills (CPCG166A-3),4,
+English,Professional Skills – Career,1,
+English,Personal Development – Life Skills,1,
+Social Sciences - Economics,Unspecified skill entry 1 (name blank in source),2,Skill name blank in source
+Social Sciences - Economics,Unspecified skill entry 2 (name blank in source),2,Skill name blank in source
+Social Sciences - Economics,Advanced Communication & Policy Engagement,1,
+Social Sciences - Economics,Advanced Data & Digital Skills,1,
+Computer Science,Industry & Scientific Communication Skills (CPCG366A-1),2,
+Computer Science,Academic & Professional Leadership Course (CPCG368A),2,
+Computer Science,Scientific Writing and Communications Skills,2,
+Computer Science,Digital Skills,2,
+Computer Science,Professional & Entrepreneurship Skills - L1: Career preparation,2,
+Computer Science,Professional & Entrepreneurship Skills - L1: Entrepreneurship Skills,2,
+Media,Career Launchpad for Media Professionals,5,
+Media,Academic Communication and Writing Essentials,5,
+Media,Adaptive Leadership for Digital Media,5,
+Media,Professional Speaking and Workplace Communication,5,
+Media,Executive Presence and Strategic Identity,1,
+Media,Crisis Communication and Thought Leadership,1,
+Commerce,"Year 1: Soft Skill (Self discovery, design thinking and interaction skill) / Digital Skill (AI Tools for commerce and business)",6,Combined skill entry as written in source
+Commerce,Year 2: Soft Skill (Quantitative Aptitude and Reasoning for Competitive Assessment) / Digital Skill (Data Analysis using AI Tools),5,Combined skill entry as written in source
+Mathematics,Digital Literacy and Data Handling Skills,1,
+Mathematics,Scientific Writing and Communications Skills,1,
+Mathematics,Entrepreneurship Skills (L1),1,
+Mathematics,Career Preparation and Professional Development,1,

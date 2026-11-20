@@ -1,9 +1,9 @@
-Unit,Students,Classes_reported,Skills_reported,Training_hours,UG_classes,PG_classes,Trainer_internal_known
-Commerce,712,11,2,330.0,11,0,0
-English,20,2,2,,0,2,0
-Mathematics,117,2,4,,2,0,0
-Media,246,10,6,,8,2,0
-B.Sc. Psychology,275,4,8,,4,0,0
-DPS,334,7,2,,7,0,0
-Economics,186,3,6,,2,1,0
-CS Odd_PG,382,6,12,,4,2,0
+Unit,Students_reported,Classes_reported,Skills_headline_reported,UG_students,PG_students,Trainers_reported
+Professional Studies,334,7,7,334,0,7
+Psychological Sciences,545,8,12,545,0,16
+English,20,2,2,0,20,1
+Social Sciences - Economics,186,3,6,161,25,10
+Computer Science,382,6,12,261,121,22
+Media,246,6,12,227,19,10
+Commerce,712,11,22,712,0,11
+Mathematics,117,2,4,117,0,2
